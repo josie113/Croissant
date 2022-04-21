@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+
+h1,
+.email {
+  color: palevioletred;
+}
+
+.link,
+.email {
+    text-decoration: none;
+}
+
+.email {
+ font-weight: bolder;
+}
